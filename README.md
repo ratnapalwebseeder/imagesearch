@@ -8,6 +8,11 @@ if still accuracy is not good then we can hypertune the model using our own data
 
 ### usage :
 
+first we need to install required packages so run this command
+```bash
+pip install -r requirements.txt
+```
+
 **step 1 :**
 ```bash
 python main.py
